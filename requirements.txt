@@ -1,0 +1,6 @@
+ipykernel==6.22.0
+torch==2.0.1
+accelerate==0.20.3
+bitsandbytes==0.38.1
+transformers==4.27.4
+vllm==0.1.3
